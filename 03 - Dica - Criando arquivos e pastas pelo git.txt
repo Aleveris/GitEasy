@@ -1,0 +1,8 @@
+para criar pasta digite
+
+mkdir nomeDaPasta
+
+para criar arquivos 
+
+echo NomedoArquivo > NomedoArquivo.TXT 
+ (coloquei txt, mas vc decide qual a estação;  exemplo nomedoarquivo.doc )
