@@ -1,0 +1,12 @@
+reverter
+
+
+git reset --soft (volta no tempo, antes do commit)
+
+git reset --mixed (volta no tempo, antes do add arquivos)
+
+git reset --hard (volta no tempo, apagando tudo até a data)
+
+
+portanto git reset --hard  4db9f1ac2d1c906d8ec247155aa198b3beb622a2
+

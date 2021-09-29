@@ -1,0 +1,14 @@
+Arquivo
+
+Após o GIT INIT
+
+criar autores como 
+
+git config --global user.email "alexandre.friere@everis..."
+
+git congig --global user.name "Alexandre"
+
+Criando um arquivo 
+
+echo NOMEDOARQUIVO > NOMEDOARQUIVO.TXT
+
