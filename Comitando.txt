@@ -1,0 +1,12 @@
+após realizar as alterações
+
+git add -A       (adiciona todos os arquivos na pasta git oculta)
+
+
+para fazer um comimit 
+
+git commit -am "Frase que deseja que aparece no commit "
+
+esse último comando faz o upload e commita ao mesmo tempo, 
+por isso o -a e m que significa modificações. 
+

@@ -1,0 +1,19 @@
+crie o repositório no site com o mesmo nome 
+da pasta que está no seu computador. 
+
+Após a criação, copie código https://github.com/Aleveris/GitEasy.git 
+
+https é mais fácil de fazer de conectar o git com o git Hub 
+
+agora no cmd bash do git realize os comandos 
+
+git remote add origin https://github.com/Aleveris/GitEasy.git 
+
+git remote -v (mosta que está ok o seu link )
+
+git push origin master   (aperte enter e faça o login que pedirá na tela)
+
+
+pronto! recarregue a página do site e os arquivos estará online.
+
+
