@@ -1,0 +1,6 @@
+basta digitar
+
+git clone https://github.com/Aleveris/GitEasy.git
+
+lembrando que está no branch master, então é atulizar e pronto!
+

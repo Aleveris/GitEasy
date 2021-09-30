@@ -1,0 +1,8 @@
+
+ Se quiser verificar os branches que estão no repositório local:
+git branch
+
+ Altere o projeto local para trabalhar com o branch desejado:
+git checkout [nome do branch]
+
+branch a grosso modo são pastas dentro do repositório
